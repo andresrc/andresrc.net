@@ -34,3 +34,7 @@ title: Bookmarks
 ## Effects
 
 * [Kyo](https://getkyo.io)
+
+## Conferences
+
+* [POPL22 Research Papers](https://popl22.sigplan.org/track/POPL-2022-popl-research-papers#event-overview)
