@@ -12,6 +12,8 @@ title: Bookmarks
 ## Swift
 
 * [The Swift Programming Language (6)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+* [Swift Testing](https://swiftpackageindex.com/swiftlang/swift-testing/main/documentation/testing)
+* [Package Manager](https://www.swift.org/documentation/package-manager/)
 
 ## Kubernetes
 
