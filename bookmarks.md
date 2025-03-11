@@ -9,6 +9,10 @@ title: Bookmarks
 * [Working with strings in Rust](https://fasterthanli.me/articles/working-with-strings-in-rust)
 * [Malachite](https://www.malachite.rs)
 
+## Swift
+
+* [The Swift Programming Language (6)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+
 ## Kubernetes
 
 * [A better Kubernetes, from the ground up](https://blog.dave.tf/post/new-kubernetes/)
