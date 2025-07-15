@@ -15,6 +15,11 @@ title: Bookmarks
 * [Swift Testing](https://swiftpackageindex.com/swiftlang/swift-testing/main/documentation/testing)
 * [Package Manager](https://www.swift.org/documentation/package-manager/)
 
+## Programming Languages
+
+* [Par Language](https://github.com/faiface/par-lang)
+  * [Documentation](https://faiface.github.io/par-lang/introduction.html)
+
 ## Kubernetes
 
 * [A better Kubernetes, from the ground up](https://blog.dave.tf/post/new-kubernetes/)

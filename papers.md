@@ -6,6 +6,7 @@ title: Papers
 
 * [AnchorHash: A Scalable Consistent Hash](https://arxiv.org/abs/1812.09674)
 * [FSST: Fast Random Access String Compression](https://www.vldb.org/pvldb/vol13/p2649-boncz.pdf)
+* [Linear Logic](https://www.sciencedirect.com/science/article/pii/0304397587900454)
 
 ## Distributed Systems
 
