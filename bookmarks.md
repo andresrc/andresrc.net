@@ -49,3 +49,7 @@ title: Bookmarks
 ## Conferences
 
 * [POPL22 Research Papers](https://popl22.sigplan.org/track/POPL-2022-popl-research-papers#event-overview)
+
+## Typescript
+
+* [Visual Types](https://types.kitlangton.com/)
