@@ -19,3 +19,5 @@ title: Papers
 ## Types
 
 * [Linearity and Uniqueness: An Entente Cordiale](https://starsandspira.ls/docs/esop22-draft.pdf)
+* [Uniqueness Typing Simplified](https://www.mbsd.cs.ru.nl/publications/papers/2008/vrie08-IFL07-UniquenessTypingSimplified.pdf)
+  * [LtU Discussion](http://lambda-the-ultimate.org/node/2708)
