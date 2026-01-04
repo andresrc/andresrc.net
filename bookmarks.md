@@ -53,3 +53,7 @@ title: Bookmarks
 ## Typescript
 
 * [Visual Types](https://types.kitlangton.com/)
+
+## Python
+
+* [uv](https://docs.astral.sh/uv/)
