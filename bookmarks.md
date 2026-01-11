@@ -69,5 +69,6 @@ title: Bookmarks
 
 ## Technology
 
+* [Blue Current Solid-State Silicon Battery](https://bluecurrent.com/)
 * [RevForce 2-stroke engine](https://alphaotto.com/technology/)
 
