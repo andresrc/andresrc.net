@@ -12,3 +12,4 @@ title: Books
 * [The Swift Programming Language (6)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
   * [GitHub issue for offline access](https://github.com/swiftlang/swift-book/issues/2#issuecomment-2380375116)
   * [Swift Testing](https://swiftpackageindex.com/swiftlang/swift-testing/main/documentation/testing)
+* [Making Software](https://www.makingsoftware.com/)
