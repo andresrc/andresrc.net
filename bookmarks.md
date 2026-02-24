@@ -10,6 +10,8 @@ title: Bookmarks
 * [The Cargo Book](https://doc.rust-lang.org/cargo/)
 * [Working with strings in Rust](https://fasterthanli.me/articles/working-with-strings-in-rust)
 * [Malachite](https://www.malachite.rs)
+* [Building a microkernel in Rust](https://blog.desigeek.com/post/2026/02/building-microkernel-part0-why-build-an-os/)
+* [hk - an operating system kernel written in Rust](https://github.com/jgarzik/hk)
 
 ### Swift
 
