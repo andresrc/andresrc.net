@@ -21,6 +21,12 @@ title: Bookmarks
 * [Package Manager](https://www.swift.org/documentation/package-manager/)
 * [Swift on Raspberry Pi: Building Natively and Cross Compiling](https://www.swifttoolkit.dev/posts/r-pi)
 
+### Zig
+
+* [Zig Language Reference](https://ziglang.org/documentation/master/)
+* [Zig standard library](https://ziglang.org/documentation/master/std/)
+* [zg provides Unicode text processing for Zig projects](https://codeberg.org/atman/zg)
+
 ### Python
 
 * [uv](https://docs.astral.sh/uv/)
