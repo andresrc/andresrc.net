@@ -14,3 +14,6 @@ title: Blogs
   * [Exploring Arrows For Sequencing Effects](https://chrispenner.ca/posts/arrow-effects)
 * [zackoverflow](https://zackoverflow.dev/)
   * [Template Interpreters](https://zackoverflow.dev/writing/template-interpreters)
+* [Debasish Ghosh](https://debasishg.github.io/blog/)
+  * [Why Zig’s Io Feels Like an Effect System (Without Being One)](https://debasishg.github.io/blog/effects/)
+* [Matklad](https://matklad.github.io)

@@ -16,7 +16,7 @@ title: Bookmarks
 ### Swift
 
 * [The Swift Programming Language (6)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
-* [Swiftly: A Swift toolchain installer and manager, written in Swift](https://github.com/swiftlang/swiftly)
+* [Swiftly: A Swift toolchain installer and manager, written in Swift](https://www.swift.org/swiftly/documentation/swiftly/getting-started)
 * [Swift Testing](https://swiftpackageindex.com/swiftlang/swift-testing/main/documentation/testing)
 * [Package Manager](https://www.swift.org/documentation/package-manager/)
 * [Swift on Raspberry Pi: Building Natively and Cross Compiling](https://www.swifttoolkit.dev/posts/r-pi)
@@ -39,6 +39,8 @@ title: Bookmarks
 
 * [Par Language](https://github.com/faiface/par-lang)
   * [Documentation](https://faiface.github.io/par-lang/introduction.html)
+* [Zero](https://zerolang.ai)
+* [MoonBit](https://www.moonbitlang.com/)
 
 ## Kubernetes
 
@@ -53,7 +55,7 @@ title: Bookmarks
 
 * [Ink & Switch](https://www.inkandswitch.com)
 * [Fossil](https://www.fossil-scm.org): simple, high-reliability, distributed software configuration management system.
-* [Clawd](https://clawd.bot)
+* [OpenClaw](https://openclaw.ai/)
 
 ## Data Formats
 
@@ -79,4 +81,16 @@ title: Bookmarks
 
 * [Blue Current Solid-State Silicon Battery](https://bluecurrent.com/)
 * [RevForce 2-stroke engine](https://alphaotto.com/technology/)
+
+## Time Series
+
+* [How we rebuilt Elasticsearch as a leading columnar metrics datastore](https://www.elastic.co/search-labs/blog/elasticsearch-columnar-metrics-engine-30x-faster-prometheus)
+
+## Magazines
+
+* [Quanta Magazine](https://www.quantamagazine.org)
+  * [‘It’s a Mess’: A Brain-Bending Trip to Quantum Theory’s 100th Birthday Party](https://www.quantamagazine.org/its-a-mess-a-brain-bending-trip-to-quantum-theorys-100th-birthday-party-20250808/)
+  * [How Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
+  * [Does Time Really Flow? New Clues Come From a Century-Old Approach to Math](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/)
+  * [What Can We Gain by Losing Infinity?](https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/)
 

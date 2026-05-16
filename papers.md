@@ -23,3 +23,10 @@ title: Papers
   * [LtU Discussion](http://lambda-the-ultimate.org/node/2708)
 * [Haskell’s overlooked object system](https://arxiv.org/pdf/cs/0509027)
 
+## Physics
+
+* [Nicolas Gisin's papers in arXiv](https://arxiv.org/search/?query=nicolas+gisin&searchtype=author&source=header)
+  * [Naturalistic intuitionism for physics (2025)](https://arxiv.org/abs/2509.22528)
+  * [Physics without Determinism: Alternative Interpretations of Classical Physics (2019)](https://arxiv.org/abs/1909.03697)
+
+
