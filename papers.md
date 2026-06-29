@@ -29,4 +29,7 @@ title: Papers
   * [Naturalistic intuitionism for physics (2025)](https://arxiv.org/abs/2509.22528)
   * [Physics without Determinism: Alternative Interpretations of Classical Physics (2019)](https://arxiv.org/abs/1909.03697)
 
+## Math
+
+* [Rethinking set theory](https://arxiv.org/pdf/1212.6543)
 

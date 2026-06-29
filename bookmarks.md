@@ -25,6 +25,7 @@ title: Bookmarks
 
 * [Zig Language Reference](https://ziglang.org/documentation/master/)
 * [Zig standard library](https://ziglang.org/documentation/master/std/)
+* [Zig devlog](https://ziglang.org/devlog/)
 * [zg provides Unicode text processing for Zig projects](https://codeberg.org/atman/zg)
 
 ### Python
