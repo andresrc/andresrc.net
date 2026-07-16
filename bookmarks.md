@@ -98,3 +98,9 @@ title: Bookmarks
 ## Tools
 
 * [Dory, Docker & Linux containers, native to your Mac](https://augani.github.io/dory/)
+
+## GPU Programming
+
+* [The Apple Neural Engine Inference Book](http://alvaro-videla.com/ane-book/)
+* [Inference School](https://github.com/videlalvaro/inference-school)
+
