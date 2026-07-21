@@ -19,4 +19,4 @@ title: Blogs
 * [Matklad](https://matklad.github.io)
 * [Thomas Dullien / Halvar Flake](https://thomasdullien.github.io/)
   * [Halvar’s Guide to Entrepreneurship](https://thomasdullien.github.io/guides/entrepreneurship/)
-  
+* [Alex Alejandre](https://alexalejandre.com/)
