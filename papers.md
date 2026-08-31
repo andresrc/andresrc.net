@@ -11,6 +11,11 @@ title: Papers
 ## Distributed Systems
 
 * [Distributed Transactional Systems Cannot Be Fast](https://arxiv.org/pdf/1903.09106.pdf)
+* [The LogDrive: Composable Durability for Cloud-Based Shared Logs](https://www.usenix.org/conference/osdi26/presentation/vickers)
+
+## Databases
+
+* [BtrLog: Low-Latency Logging for Cloud Database Systems](https://arxiv.org/abs/2606.27051)
 
 ## Functional Programming
 
@@ -22,6 +27,7 @@ title: Papers
 * [Uniqueness Typing Simplified](https://www.mbsd.cs.ru.nl/publications/papers/2008/vrie08-IFL07-UniquenessTypingSimplified.pdf)
   * [LtU Discussion](http://lambda-the-ultimate.org/node/2708)
 * [Haskell’s overlooked object system](https://arxiv.org/pdf/cs/0509027)
+* [Orthologic Type Systems](https://arxiv.org/pdf/2507.10482)
 
 ## Physics
 
