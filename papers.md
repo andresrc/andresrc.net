@@ -16,6 +16,7 @@ title: Papers
 ## Databases
 
 * [BtrLog: Low-Latency Logging for Cloud Database Systems](https://arxiv.org/abs/2606.27051)
+* [2026 VLDB - How to Write to SSDs](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
 
 ## Functional Programming
 
