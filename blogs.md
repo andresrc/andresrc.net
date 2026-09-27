@@ -20,3 +20,6 @@ title: Blogs
 * [Thomas Dullien / Halvar Flake](https://thomasdullien.github.io/)
   * [Halvar’s Guide to Entrepreneurship](https://thomasdullien.github.io/guides/entrepreneurship/)
 * [Alex Alejandre](https://alexalejandre.com/)
+* [Languages ∩ Architecture](https://verdagon.dev/home)
+  * [The Golden Spike, and Resurrecting the Vale(n) Programming Language](https://verdagon.dev/blog/golden-spike-reviving-vale-valen)
+  * [Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions](https://verdagon.dev/blog/group-borrowing)
