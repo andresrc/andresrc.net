@@ -17,6 +17,7 @@ title: Blogs
 * [Debasish Ghosh](https://debasishg.github.io/blog/)
   * [Why Zig’s Io Feels Like an Effect System (Without Being One)](https://debasishg.github.io/blog/effects/)
 * [Matklad](https://matklad.github.io)
+  * [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
 * [Thomas Dullien / Halvar Flake](https://thomasdullien.github.io/)
   * [Halvar’s Guide to Entrepreneurship](https://thomasdullien.github.io/guides/entrepreneurship/)
 * [Alex Alejandre](https://alexalejandre.com/)

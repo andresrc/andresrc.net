@@ -14,3 +14,5 @@ title: Books
   * [Swift Testing](https://swiftpackageindex.com/swiftlang/swift-testing/main/documentation/testing)
 * [Making Software](https://www.makingsoftware.com/)
 * [Lambda: the Ultimate Object](https://fare.tunes.org/files/cs/poof/ltuo.html)
+* [Physically Based Rendering](https://pbrt.org/)
+  * [4th Edition ToC](https://pbr-book.org/4ed/contents)
