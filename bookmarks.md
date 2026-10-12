@@ -42,6 +42,8 @@ title: Bookmarks
   * [Documentation](https://faiface.github.io/par-lang/introduction.html)
 * [Zero](https://zerolang.ai)
 * [MoonBit](https://www.moonbitlang.com/)
+* [Goose](https://github.com/aardappel/goose)
+  * [X Thread](https://x.com/wvo/status/2107979660558766351)
 
 ## Kubernetes
 
