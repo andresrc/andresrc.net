@@ -7,6 +7,7 @@ title: Papers
 * [AnchorHash: A Scalable Consistent Hash](https://arxiv.org/abs/1812.09674)
 * [FSST: Fast Random Access String Compression](https://www.vldb.org/pvldb/vol13/p2649-boncz.pdf)
 * [Linear Logic](https://www.sciencedirect.com/science/article/pii/0304397587900454)
+* [An Introduction to Bε-trees and Write-Optimization](https://www.usenix.org/publications/login/oct15/bender)
 
 ## Distributed Systems
 
@@ -29,6 +30,8 @@ title: Papers
   * [LtU Discussion](http://lambda-the-ultimate.org/node/2708)
 * [Haskell’s overlooked object system](https://arxiv.org/pdf/cs/0509027)
 * [Orthologic Type Systems](https://arxiv.org/pdf/2507.10482)
+* [Typing Rules become Programs](https://github.com/barry-jay-personal/typing-rules-as-programs/blob/main/paper/typing-rules-become-programs.pdf)
+  * [Repository](https://github.com/Barry-Jay-personal/typing-rules-as-programs)
 
 ## Physics
 

@@ -24,3 +24,7 @@ title: Blogs
 * [Languages ∩ Architecture](https://verdagon.dev/home)
   * [The Golden Spike, and Resurrecting the Vale(n) Programming Language](https://verdagon.dev/blog/golden-spike-reviving-vale-valen)
   * [Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions](https://verdagon.dev/blog/group-borrowing)
+* [Sebastian Aaltonen](https://sebastianaaltonen.com/blog/)
+  * [No Graphics API](https://sebastianaaltonen.com/blog/no-graphics-api/)
+* [Orib](https://orib.dev/)
+  * [Gefs](https://orib.dev/gefs.html) ([PDF](https://orib.dev/gefs.pdf))
